@@ -1,4 +1,4 @@
-# Robust-Low-rank-Tensor-Ring-Completion
+# Robust Low-rank Tensor Ring Completion
 If you have used the code or datasets in this paper, please cite:
 
 @ARTICLE{9136899, 
